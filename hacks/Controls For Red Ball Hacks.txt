@@ -1,0 +1,38 @@
+Hey yall. I know some of the games has a control tutorials how to play. But as you first play it and you decide to not look at the controls, here are the controls that will help you:
+
+Main Controls
+A/D, Left/Right - Move
+W, Spacebar, Up, X - Jump
+Down - Stop
+P, ESC - Pause The Game
+R - Restart Level
+M - Mute
+Spacebar (RABB1) - Switch Balls
+Z - (Rabb2/3) - Switch Balls
+Spacebar (RB5) - Advance To The Next Level
+
+Glitch Controls
+RB2, RABB1, RB3 - W, Space, Up + P - Pause Jump
+Red Ball 4 - 2x Spacebar - Double Jump
+Red Ball 1 - 2x P/Esc - Activate Spike Glitch
+Red Ball 5 - Hold Spacebar - Skip Multiple Levels
+
+Controls For Red Ball - On Speed
+S, Down Arrow Key - Build Up Alot Of Speed
+
+Controls For Red Ball - Jetpack
+S, Down Arrow Key - Have Red Ball Fly
+
+Controls For RABB2/3 (IGT)
+J - Advance To The Previous Level
+K - Advance To The Next Level
+
+Controls For Red Ball Savestates
+Q - Savestate
+E - Load Savestate
+
+Controls For RB2/RABB1 (IGT W LVL ADVANCE)
+[ - Advance To The Previous Level
+] - Advance To The Next Level
+
+I hope this helps. :)

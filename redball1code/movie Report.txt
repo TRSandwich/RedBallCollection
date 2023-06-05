@@ -1,0 +1,226 @@
+movie.swf Movie Report
+-----------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1           5591           5591    Scene 1
+      2         462033         467624     (AS 3.0 Classes Export Frame)
+      3           4471         472095    
+      4           2896         474991    
+      5            530         475521    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0          1944                140869
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+SoundCheck                           133             0                     0
+Smile                                461             0                     0
+MenuBackground                      7210             0                     0
+CheckPoint                            92             0                     0
+QuitSprite                             0            84                     0
+GoPlat                                67             0                     0
+Roll                                  99             0                     0
+Rampa                                358             0                     0
+RampaShow                            112             0                     0
+Box40                                 65             0                     0
+Ceil                                  68             0                     0
+MainPlatform                         266             0                     0
+BoxPlatfrom                           65             0                     0
+Steps                                111             0                     0
+Box20                                122             0                     0
+Flag                                 104             0                     0
+UpCeil                               112             0                     0
+Triangle                             170             0                     0
+KillBrevno                            41             0                     0
+KillStar                             565             0                     0
+KillStar                             565             0                     0
+KillRotate                            41             0                     0
+Ceil2                                 65             0                     0
+KillCeil1                            129             0                     0
+Ceil1                                 72             0                     0
+StonePNG                            3188             0                     0
+Platform                             147             0                     0
+Train                                 77             0                     0
+Koleso                               124             0                     0
+Vagon                                 89             0                     0
+VagonSolid                           151             0                     0
+RoundBlock                            82             0                     0
+GoBall                               121             0                     0
+MainRampa                            270             0                     0
+MainRampaShow                        147             0                     0
+Cube                                  65             0                     0
+AfterJump                            174             0                     0
+ForthBarier                           73             0                     0
+ThirdBarier                           73             0                     0
+SecondBarier                          72             0                     0
+FirstBarier                           72             0                     0
+BarierPlatform                        72             0                     0
+FirstPlatform                        352             0                     0
+Line                                  31             0                     0
+KillRollBall                          90             0                     0
+Low2Platform                         114             0                     0
+BridgeElement                         64             0                     0
+FinishPlatform                       182             0                     0
+JumpBall                             121             0                     0
+MiddlePlatform                        75             0                     0
+UpPlatform                            79             0                     0
+LowPlatform                           89             0                     0
+GreenPlatform                        130             0                     0
+PlayerDiePart                         57             0                     0
+FirstBigPlatform                     177             0                     0
+ShowLevel                            221             0                     0
+Barier                               356             0                     0
+FinishPlatform                       182             0                     0
+BetweenKiilersBigWall                 39             0                     0
+Killer                                77             0                     0
+BetweenKillersWall                    66             0                     0
+KillSpusk2                            84             0                     0
+KillSpusk                             81             0                     0
+Car                                  137             0                     0
+Koleco                               521             0                     0
+Potolok                              156             0                     0
+Pol                                   80             0                     0
+FirstRampa                           154             0                     0
+GradientBack                          41             0                     0
+BoomCrank                             44             0                     0
+SecondCrank                           66             0                     0
+FirstCrank                            63             0                     0
+Level_12                               0           363                     0
+Level_11                               0           124                     0
+Level_10                               0           135                     0
+Level_9                                0           134                     0
+Level_8                                0           121                     0
+MyLOGO                                62             0                     0
+Sun                                    0             0                     0
+Cloud3Normal                         108             0                     0
+Cloud2Normal                         107             0                     0
+Cloud1Normal                          89             0                     0
+Cloud3                                 0             0                     0
+Cloud2                                 0             0                     0
+Cloud1                                 0             0                     0
+BluePlatform                          68             0                     0
+Vanna                                105             0                     0
+Triangle                             170             0                     0
+Star                                  54             0                     0
+KillBall20                             0             0                     0
+Ball20                                 0             0                     0
+Box20                                122             0                     0
+CheckDestroyerRed                     68             0                     0
+WallPlatform                           0             0                     0
+RedWall                               65             0                     0
+MovePlatform                         196             0                     0
+LittleKillBall                         0             0                     0
+Potolok                              156             0                     0
+BigPlatform                          148             0                     0
+JumpPlatform                         253             0                     0
+JumpPlatform                         253             0                     0
+FirstPlatform                        352             0                     0
+Level_7                                0           127                     0
+BoxCheck                              78             0                     0
+LevelButton                          184             0                     0
+Game                                   0           115                     0
+FinishPlatform                       182             0                     0
+BackBall                             185             0                     0
+VoronkaRight                         155             0                     0
+VoronkaLeft                          122             0                     0
+Spin                                 258             0                     0
+AfterJump                            174             0                     0
+DropPlatform                         131             0                     0
+Rampa                                358             0                     0
+Rampa2                               164             0                     0
+Stone                                  0             0                     0
+Ground                               226             0                     0
+Grass                                841             0                     0
+BackGround                           155             0                     0
+Level_6                                0           244                     0
+BigBall                              121             0                     0
+GreenPlatform                        130             0                     0
+JumpPlatform                         253             0                     0
+LittleBall                            98             0                     0
+RightBarier                           67             0                     0
+MainPlatform                         266             0                     0
+BlueBarier                            63             0                     0
+FirstPlatform                        352             0                     0
+CheckDestroyerGreen                   68             0                     0
+Level_5                                0           297                     0
+DropPlatform                         131             0                     0
+Axe                                  159             0                     0
+Step                                 108             0                     0
+KillBoom                             135             0                     0
+SecondFloor                           65             0                     0
+FirstFloor                            68             0                     0
+MainPlatform                         266             0                     0
+Level_4                                0           352                     0
+ExitPlatform                         165             0                     0
+MovePlatform                         196             0                     0
+ShipPlatform                          68             0                     0
+FirstPlatform                        352             0                     0
+Level_3                                0           248                     0
+PlayButton                            41           456                     0
+MoreGamesButton                       43           360                     0
+BackButton                            41           342                     0
+CreditsButton                         43           354                     0
+ExitPlatform                         165             0                     0
+MovePlatform                         196             0                     0
+Jump1                                 65             0                     0
+KickBall                             121             0                     0
+BallPlatform                          70             0                     0
+TriangleBarier                        80             0                     0
+PlatformTriangle                      80             0                     0
+FirstPlatform                        352             0                     0
+Level_2                                0           192                     0
+Barier                               356             0                     0
+ExitPlatform                         165             0                     0
+StartPlatform                         94             0                     0
+Level_1                                0           188                     0
+Ships10                                0             0                     0
+Shipik                                23             0                     0
+CheckDestroyerBlue                    68             0                     0
+LevelAim                               0             0                     0
+LevelAim25                             0             0                     0
+PlayerBox                            121             0                     0
+loadbar                                0             0                     0
+sign                                 115             0                     0
+
+
+Tweened Shapes: 204 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Verdana                        2470    
+Kronika                       17669     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Arial-BoldMT Bold                22    
+
+ActionScript Bytes    Location
+------------------    --------
+              3668    Scene 1:Frame 1
+            137201    Scene 1:Frame 2
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Steel                           9808      209760   Imported JPEG=102
+wood.PNG                        2571       67512   JPEG Quality=80
+Bitmap 18                       1898       26144   JPEG Quality=80
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Window Break 02.wav          4071        11KHz Mono 16 kbps MP3
+TrainHorn.wav               14783        11KHz Mono 16 kbps MP3
+press.wav                     951        11KHz Mono 16 kbps MP3
+move.wav                      639        11KHz Mono 16 kbps MP3
+marblebounce.wav             1055        11KHz Mono 16 kbps MP3
+JumpPlatform.mp3            14643        11KHz Mono 16 kbps MP3
+Fanfare2.wav                 7087        11KHz Mono 16 kbps MP3
+carloop.wav                  2823        11KHz Mono 16 kbps MP3
+beep6.wav                     743        11KHz Mono 16 kbps MP3
+BallDown.mp3                 6702        11KHz Mono 16 kbps MP3
+91580_backalley.mp3        273015        11KHz Mono 16 kbps MP3
+
+
+
+
